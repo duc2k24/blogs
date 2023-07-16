@@ -1,0 +1,15 @@
+@import 'varaiable';
+
+h1 {
+    color:$text-color;
+}
+
+h2 {
+    color: red;
+}
+
+.avata-img {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
